@@ -1,0 +1,10 @@
+{
+    "MYSQL": {
+        "HOST": "localhost",
+        "PORT": 3306,
+        "USER": "techknownedge",
+        "PASSWORD": "techknownedge@123",
+        "DIALECT": "mysql2",
+        "DATABASE": "techknownedge"
+    }
+}
